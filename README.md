@@ -10,7 +10,6 @@ Cell day-0
 ![image](https://github.com/AvivSalo/Bio-Cell-Detection/assets/121252358/358fbe02-4fc2-43c6-8c4f-1609655692ee)
 
 Cell day-0 postprocessing
-
 ![image](https://github.com/AvivSalo/Bio-Cell-Detection/assets/121252358/6ba7f4a2-0238-40bb-afb7-147fd252a845)
 
 Calculated Area: 
