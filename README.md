@@ -6,11 +6,11 @@ Today this repository is helping here and here colleges to analyze the microbiol
 
 # Code example
 
-Cell day-0
+## 📌 Cell day-0 raw data
 
 ![image](https://github.com/AvivSalo/Bio-Cell-Detection/assets/121252358/358fbe02-4fc2-43c6-8c4f-1609655692ee)
 
-Cell day-0 postprocessing
+## 📌 Cell day-0 postprocessing
 
 ![image](https://github.com/AvivSalo/Bio-Cell-Detection/assets/121252358/6ba7f4a2-0238-40bb-afb7-147fd252a845)
 
