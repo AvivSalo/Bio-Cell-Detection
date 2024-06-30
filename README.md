@@ -19,14 +19,18 @@ Calculated Area:
 
 # Getting started
 1. Create a virtual environment
-  
-$ pip install -r requirements.txt
+
+'''bash
+pip install -r requirements.txt
+'''
 
 2. Activate your venv
 
-$ source venv/bin/activate
+'''bash
+source venv/bin/activate
+'''
 
-3. run **eval.py**
+4. run **eval.py**
 
 Choose the directory of images folder to analyze 
 ![image](https://github.com/AvivSalo/Bio-Cell-Detection/assets/121252358/ed6d8185-1007-471b-a0f7-b4184b61352f)
