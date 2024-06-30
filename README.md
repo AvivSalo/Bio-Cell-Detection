@@ -1,6 +1,6 @@
 # Bio Cell Detection
 
-This repository us Deep Learning and computer vision models to process biology cell images and analyze the data to track the cell's growing growth. 
+This repository us Deep Learning and Computer Vision models for processing biology cell images and analyzing the data to track the cell's growing growth. 
 It all started when my PhD friend asked for help so that she could calculate the area of growing cells in her Biology lab experiments.
 Today this repository is helping here and here colleges to analyze the microbiology life in their lab.
 
