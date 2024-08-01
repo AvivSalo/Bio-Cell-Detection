@@ -14,8 +14,7 @@ Today this repository is helping here and here colleges to analyze the microbiol
 
 ![image](https://github.com/AvivSalo/Bio-Cell-Detection/assets/121252358/6ba7f4a2-0238-40bb-afb7-147fd252a845)
 
-Calculated Area: 
-38048 [pixels]
+### Calculated Area: 38048 [pixels]
 
 # Getting started
 1. Create a virtual environment
